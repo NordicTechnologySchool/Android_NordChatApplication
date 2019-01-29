@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Guwe</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="button_logout">Logout</string>
+    <string name="balik_daftar"><u>disini</u></string>
+    <string name="Name">name</string>
+    <string name="Email">email_login</string>
+    <string name="Pass">pass_login</string>
+    <string name="my_name">Hi Fachrul !</string>
+    <string name="abcdefg_gmail_com">abcdefg@gmail.com</string>
+</resources>

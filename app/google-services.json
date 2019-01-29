@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277092635909",
+    "firebase_url": "https://guwe-63298.firebaseio.com",
+    "project_id": "guwe-63298",
+    "storage_bucket": "guwe-63298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277092635909:android:f618ee57ed34996a",
+        "android_client_info": {
+          "package_name": "com.example.asus.guwe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277092635909-1bs3vri9ghbrinffrht4qvjv9jpsplin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC042B9xBg4F2XZGt8PT_dTJS8fcdq8kZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
